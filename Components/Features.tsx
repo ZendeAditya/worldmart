@@ -8,7 +8,7 @@ import Image from "next/image";
 const Features = (props: Props) => {
   return (
     <>
-      <section className="w-screen h-full bg-blue-400 text-white">
+      <section id="About" className="w-screen h-full bg-blue-400 text-white">
         <div className="flex items-center justify-center px-2 flex-col lg:flex-row py-3">
           <div>
             <h2 className="text-4xl md:text-5xl font-semibold py-2">

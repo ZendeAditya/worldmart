@@ -5,7 +5,7 @@ type Props = {};
 
 const Gift = (props: Props) => {
   return (
-    <section className="w-screen h-full bg-blue-50">
+    <section id="Offers" className="w-screen h-full bg-blue-50">
       <div className="flex items-center justify-center px-2 lg:px-52 flex-col lg:flex-row py-3">
         <div className="lg:w-[30rem]">
           <Image

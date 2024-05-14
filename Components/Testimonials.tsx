@@ -5,7 +5,7 @@ import customer3 from "@/public/customers/cu3.webp";
 import Image from "next/image";
 const Testimonials = () => {
   return (
-    <section className="py-5">
+    <section id="Testimonials" className="py-5 px-2">
       <div className="text-center">
         <h1 className="text-4xl font-semibold">Testimonials</h1>
         <h2 className="text-lg py-2">This is what our customers say about World Mart!</h2>
