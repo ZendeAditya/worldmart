@@ -1,0 +1,25 @@
+{
+    "faqs": [
+      {
+        "question": "How can I track my order?",
+        "answer": "Tracking your order is easy! Simply log in to your World Mart account and navigate to the 'Order History' section to track the status of your shipment in real-time."
+      },
+      {
+        "question": "What payment methods do you accept?",
+        "answer": "We accept credit/debit cards (Visa, Mastercard, American Express), PayPal, and online banking transfers for select regions."
+      },
+      {
+        "question": "Do you offer international shipping?",
+        "answer": "Yes, we offer international shipping to many countries worldwide. Shipping fees and delivery times may vary depending on your location. Please check our shipping information page for more details."
+      },
+      {
+        "question": "Can I return or exchange an item?",
+        "answer": "Absolutely! You can return or exchange an item within [X days] of receiving it. Please review our returns policy for more information."
+      },
+      {
+        "question": "How do I contact customer support?",
+        "answer": "You can contact our customer support team via email at support@worldmart.com or through our live chat feature on the website."
+      }
+    ]
+  }
+  

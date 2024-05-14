@@ -1,4 +1,5 @@
 import CallToAction from "@/Components/CallToAction";
+import FAQ from "@/Components/FAQ";
 import Features from "@/Components/Features";
 import Gift from "@/Components/Gift";
 import Hero from "@/Components/Hero";
@@ -12,6 +13,7 @@ export default function Home() {
       <Gift/>
       <Testimonials/>
       <CallToAction/>
+      <FAQ/>
     </main>
   );
 }
